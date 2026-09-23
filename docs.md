@@ -4,3 +4,5 @@
 ## Setup
 - `python3 -m venv venv`
 - `source ./venv/bin/activate`
+## Building
+- `python -m pip freeze`
