@@ -3,6 +3,7 @@
 
 ## Setup
 - `python3 -m venv venv`
+- `pip install -r requirements.txt`
 - `source ./venv/bin/activate`
 ## Building
-- `python -m pip freeze`
+- `python -m pip freeze > requirements.txt`
