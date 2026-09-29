@@ -7,3 +7,7 @@
 - `source ./venv/bin/activate`
 ## Building
 - `python -m pip freeze > requirements.txt`
+
+## Development
+- `nbstripout main.ipynb`
+	- removes metadata
