@@ -11,3 +11,4 @@
 ## Development
 - `nbstripout main.ipynb`
 	- removes metadata
+- `nbdime config-git --enable --global && git mergetool --tool nbdime -- *.ipynb`
