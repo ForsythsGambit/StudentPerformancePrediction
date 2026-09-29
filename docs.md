@@ -15,3 +15,5 @@
 	- removes metadata before committing
 - `nbdime config-git --enable --global && git mergetool --tool nbdime -- *.ipynb`
 	- setup jupiter notebook mergetool
+- `nbdime main.ipynb`
+	- run mergetool
